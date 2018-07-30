@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "Manage your code better.",
   "main": "index.js",
+  "bin": {
+    "commit": "bin/commit.js"
+  },
   "scripts": {
+    "start": "node ./index.js",
     "test": "npm run test"
   },
   "repository": {
