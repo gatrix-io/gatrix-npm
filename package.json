@@ -1,0 +1,22 @@
+{
+  "name": "gatrix",
+  "version": "0.1.0",
+  "description": "Manage your code better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatrix-io/gatrix.git"
+  },
+  "keywords": [
+    "gatrix"
+  ],
+  "author": "Gatrix",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gatrix-io/gatrix/issues"
+  },
+  "homepage": "https://github.com/gatrix-io/gatrix#readme"
+}
